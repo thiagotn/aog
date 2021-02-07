@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Álcool ou Gasolina?
+
+App seguindo o curso: https://github.com/balta-io/7192
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
